@@ -6,6 +6,8 @@ Based on the [complete example](https://developers.google.com/identity/protocols
 
 ## How to run
 
+Put your client secret in `client_secret.json`
+
 ```
 pip install -r requirements.txt
 python3 server.py
